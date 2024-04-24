@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranjal Pratap Singh
 - 👀 I’m interested in learning new skill, cooking, meditation, reading.
-- 🌱 I’m currently learning Tableau, Big Data Analytics, Linux, Cloud Computing, etc.
+- 🌱 I’m currently learning Tableau, Data Analytics, Linux, Cloud Computing, Python, R etc.
 - 💞️ I’m looking to collaborate on project, jobs where i can learn and contribute something meaningful.
 - 📫 How to reach me pranjalbbd9@gmail.com
 - 😄 Pronouns: ...
